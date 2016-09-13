@@ -1,12 +1,12 @@
 {
-    "name": "browscap/browscap-bundle",
+    "name": "cravler/browscap-bundle",
     "description": "Allows you to get browser information",
     "keywords": ["browscap", "browser"],
     "homepage": "https://github.com/browscap/BrowscapBundle",
     "type": "symfony-bundle",
     "require": {
         "php": ">=5.3.3",
-        "browscap/browscap-php": "*@dev"
+        "browscap/browscap-php": "~2.0"
     },
     "require-dev": {
         "symfony/symfony": ">=2.1,<=2.5"
